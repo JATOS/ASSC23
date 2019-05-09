@@ -1,1 +1,1 @@
-# workshop_ASSC_2019
+# Workshop at ASSC23
