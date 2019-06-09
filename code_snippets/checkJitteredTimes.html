@@ -11,7 +11,7 @@
     <script type="text/javascript">
         var timing = { "observed": [], "expected": [], "obs_difference": [] };
         var tstart = performance.now();
-        var interval = 4;
+        var interval = 4; //4 ms is minimum delay, see: https://stackoverflow.com/questions/9647215/what-is-minimum-millisecond-value-of-settimeout
         var ntimepoints = 1000;
 
         var i = 0;
