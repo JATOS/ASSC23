@@ -37,4 +37,5 @@ Then consider creating an account in [Digital Ocean](https://www.digitalocean.co
 
 # Any questions? Email us:
 lange.kristian@gmail.com
+
 elisa.filevich@gmail.com
