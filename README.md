@@ -34,3 +34,7 @@ Then consider creating an account in [Digital Ocean](https://www.digitalocean.co
 
 # We will use this channel to send links during the workshop:
 [ASSC23Chat](https://assc23.jatos.ninja/publix/1/start?batchId=1&generalMultiple)
+
+# Any questions? Email us:
+lange.kristian@gmail.com
+elisa.filevich@gmail.com
