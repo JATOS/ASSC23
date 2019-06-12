@@ -2,7 +2,11 @@
 
 These are the materials for the ASSC23 workshop on "Running web-based experiments in consciousness research".
 
-# Consciousness-related example studies
+# Before the workshop, please clone or download the whole repo  
+
+It contains: 
+
+## Consciousness-related example studies
 * Visual metacognition
 * Bistable perception 
 * Change blindness
@@ -10,7 +14,7 @@ These are the materials for the ASSC23 workshop on "Running web-based experiment
 * A mobile-based (Google Cardboard viewers) attempt for binocular rivalry
 * Mental Arithmetics through mouse-tracking
 
-# Other examples studies
+## Other examples studies
 (We will use these in the tutorial, too)
 * Chat 
 * Snake game
