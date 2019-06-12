@@ -20,6 +20,9 @@ It contains:
 * Snake game
 * Spying study: collect information from the browser's settings 
 
+## Other files
+* Other short HTML/JS files to demonstrate general aspects of online data collection  
+
 # Please also download and install:
 * [Visual studio code](https://code.visualstudio.com/) (or another editor with HTML highlighting)
 * [JATOS](www.jatos.org). Follow the [installation](http://www.jatos.org/Installation.html) instructions.
