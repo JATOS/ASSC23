@@ -23,6 +23,9 @@ It contains:
 ## Other files
 * Other short HTML/JS files to demonstrate general aspects of online data collection  
 
+## We will use this channel to send links during the workshop:
+[ASSC23Chat](https://assc23.jatos.ninja/publix/1/start?batchId=1&generalMultiple)
+
 # Please also download and install:
 * [Visual studio code](https://code.visualstudio.com/) (or another editor with HTML highlighting)
 * [JATOS](www.jatos.org). Follow the [installation](http://www.jatos.org/Installation.html) instructions.
@@ -31,9 +34,6 @@ It contains:
 # Want to leave the workshop with a (cloud-based) server ready to collect data?
 Then consider creating an account in [Digital Ocean](https://www.digitalocean.com/)
 (NOTE: you will need your credit card. We are not associated with them, it's just the most convenient alternative in our view.)
-
-# We will use this channel to send links during the workshop:
-[ASSC23Chat](https://assc23.jatos.ninja/publix/1/start?batchId=1&generalMultiple)
 
 # Any questions? Email us:
 lange.kristian@gmail.com
