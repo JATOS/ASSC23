@@ -1,7 +1,6 @@
 # Workshop at ASSC23
 
 These are the materials for the ASSC23 workshop on "Running web-based experiments in consciousness research".
-This repo contains:
 
 # Consciousness-related example studies
 * Visual metacognition
@@ -20,7 +19,7 @@ This repo contains:
 # Please also download and install:
 * [Visual studio code](https://code.visualstudio.com/) (or another editor with HTML highlighting)
 * [JATOS](www.jatos.org). Follow the [installation](http://www.jatos.org/Installation.html) instructions.
-* Chrome or Firefox
+* Chrome
 
 # Want to leave the workshop with a (cloud-based) server ready to collect data?
 Then consider creating an account in [Digital Ocean](https://www.digitalocean.com/)
@@ -28,12 +27,3 @@ Then consider creating an account in [Digital Ocean](https://www.digitalocean.co
 
 # We will use this channel to send links during the workshop:
 [ASSC23Chat](https://assc23.jatos.ninja/publix/1/start?batchId=1&generalMultiple)
-
-
-
-More information about JATOS: [www.jatos.org/Whats-JATOS.html](http://www.jatos.org/Whats-JATOS.html)
-
-This software is licensed under the [Apache 2 License](http://www.apache.org/licenses/LICENSE-2.0.html).
-
-
-
