@@ -2,7 +2,10 @@
 
 These are the materials for the ASSC23 workshop on "Running web-based experiments in consciousness research".
 
-# Before the workshop, please [download](https://github.com/JATOS/ASSC23) the whole repo  
+# Before the workshop, please download the whole repo:
+1. Go [here](https://github.com/JATOS/ASSC23)
+1. Click on the green button that says **Clone or download**
+1. Click on **Download Zip**
 
 It contains: 
 
