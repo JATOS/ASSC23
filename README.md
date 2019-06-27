@@ -9,8 +9,8 @@ These are the materials for the ASSC23 workshop on "Running web-based experiment
 
 It contains: 
 ## Presentation slides (as pdf)
-* Elisa's part on general aspects and workflow
-* Kristian's part on HTML/JS/CSS/JSON
+* Elisa's [part](https://github.com/JATOS/ASSC23/blob/master/Running%20Online%20Experiments%20-%20Presentation%20-%20Part%201%20(Elisa).pdf) on general aspects and workflow
+* Kristian's [part](https://github.com/JATOS/ASSC23/blob/master/ASSC%20hands-on.pdf) on HTML/JS/CSS/JSON
 
 ## Consciousness-related example studies
 * Visual metacognition
